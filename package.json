@@ -1,5 +1,5 @@
 {
-  "name": "pdf-extract-structured-data",
+  "name": "headless-gl-playground",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dirkarnez: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@github.com/dirkarnez/pdf-extract-structured-data.git"
+    "url": "git+https://github.com/dirkarnez/headless-gl-playground.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dirkarnez/pdf-extract-structured-data/issues"
-  },
-  "homepage": "https://github.com/dirkarnez/pdf-extract-structured-data#readme",
-  "devDependencies": {
-    "pdfjs-dist": "^3.9.179"
-  },
   "engines": {
     "node": ">=18"
   }

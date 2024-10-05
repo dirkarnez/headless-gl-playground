@@ -1,5 +1,8 @@
 headless-gl-playground
 ======================
+### Notes
+- Needs Native Node Module compilation
+
 ### Using
 - [stackgl/headless-gl: 🎃 Windowless WebGL for node.js](https://github.com/stackgl/headless-gl)
 
