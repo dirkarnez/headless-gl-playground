@@ -1,4 +1,4 @@
-pdf-extract-structured-data
-===========================
-### Notes
-- **This project can only run on Node v18 or above**
+headless-gl-playground
+======================
+### Using
+- [stackgl/headless-gl: 🎃 Windowless WebGL for node.js](https://github.com/stackgl/headless-gl)
